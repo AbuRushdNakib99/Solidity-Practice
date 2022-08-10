@@ -2,7 +2,6 @@
 
 pragma solidity >=0.4.16 <0.9.0;
 
-
 contract Hello{
     string public myString="Hello World";
 }
