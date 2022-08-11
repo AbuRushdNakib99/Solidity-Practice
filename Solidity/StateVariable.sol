@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Variables{
+contract StateVariable{
     // State Variable
     uint public salary1=1000; 
     uint public salary2;
